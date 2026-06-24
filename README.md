@@ -1,15 +1,33 @@
-# Datasciencehub
-Showcasing end-to-end Data Science projects, from data preprocessing and visualization to machine learning model development and evaluation."
-## About Me
-I am a Data Science Trainer passionate about Python, Machine Learning, and Data Analytics.
+# Iris Flower Classification
 
-## Skills
-- Python
-- Pandas
-- NumPy
-- Machine Learning
-- Data Visualization
-- NLP
+## Project Overview
 
-## Projects
-Projects will be added as I continue my learning journey.
+This project focuses on classifying Iris flower species using Machine Learning techniques. The Iris dataset is one of the most popular datasets for classification problems and is widely used for learning and evaluating machine learning algorithms.
+
+## Objective
+
+To build a classification model that can accurately predict the species of an Iris flower based on its sepal and petal measurements.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+## Machine Learning Algorithm
+
+* Decision Tree Classifier
+
+## Dataset
+
+The project uses the built-in Iris dataset available in the Scikit-learn library.
+
+## Results
+
+The model successfully classifies Iris flower species and demonstrates the application of supervised machine learning for classification tasks.
+
+## Author
+
+Sreelekshmi S
